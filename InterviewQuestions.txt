@@ -1,0 +1,59 @@
+Dear Mr. Peter Clayton Lock,
+ 
+Thank you for your recent application for our company.
+ 
+As a next step, we would like you to take a Video Interview and Programming Test.
+Please refer as below for details:
+ 
+----------------------
+Video Interview
+----------------------
+Your video interview will consist of a set of prerecorded questions for you to answer using your computer webcam and microphone.
+After this email, we will send you an invitation email separately.
+If you are a competent candidate, you will be invited for a face-to-face first interview.
+ 
+Video Interview Steps
+- Introduction movie
+- Interview starts
+  Questions you will be asked:
+(1) Could we have your name and the reason why you are interested in Rakuten?
+(2) Please tell us your technical background and how you will be able to contribute to the success of the company.
+　　If you already have work experience,please share that as well.
+(3) What is your greatest strength and how you leverage your strength for peak performance?Please give us an example.
+(4)*This question is for only those who have worked before*
+　　Have you ever changed your job? or are you trying to change your job?Please tell us why.
+(5) What are your career goal and career plans?
+　　How does this job fit into your career plans?
+*Please answer in English.
+*You have two to three minutes(Max. 5 minutes)to answer each question.
+*To go to the next question, please click "End recording"
+ 
+Approximate time required: 20-30 minutes
+Deadline: Thursday April 27th, 2017 9am JST
+ 
+Information:
+*Please prepare Webcam and PC microphone.
+*Casual dress is OK.
+*Please access the video interview from web browser other than Internet Explorer (Google Chrome, Firefox is OK).
+*When you click on the interview invitation link, you can use Practice Mode to help you get comfortable with the video interview platform before taking the actual interview.
+ 
+*At the end of the interview, you will see a message "thank you for completing the interview!"
+Below this message, there is a questionnaire "Help us help you."  Please note you do not need to complete this questionnaire.
+If you have any questions concerning recruiting process, please send your inquiries to:tech-career@mail.rakuten.com
+ 
+--------------------------------
+Programming Test -Codility-
+--------------------------------
+Also after this email, we will send you an invitation email
+separately.
+Deadline: Thursday April 27th, 2017 9am JST
+ 
+*Web browser: Google Chrome, Firefox3.5, IE9.0, Opera10.0, Safari5.0
+*Test begins when you click "BEGIN TEST NOW"
+You CANNOT stop and start over once you click this button.
+Please click the button only when you are ready to take the test.
+ 
+ 
+-------------------------------------
+Pre-Interview Questionnaire
+-------------------------------------
